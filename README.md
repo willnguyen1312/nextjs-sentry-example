@@ -1,4 +1,4 @@
-# Sentry 🚀
+# Sentry ^o^
 
 This is an example showing how to use [Sentry](https://sentry.io) to catch and report errors on both the front and back ends, using the [official Sentry SDK for Next.js](https://docs.sentry.io/platforms/javascript/guides/nextjs/).
 
