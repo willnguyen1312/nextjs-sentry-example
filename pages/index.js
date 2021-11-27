@@ -13,7 +13,7 @@ const Index = () => (
       different path than in production. These tests should be run on a
       production build (i.e. 'next build').{" "}
       <a href="https://nextjs.org/docs/advanced-features/custom-error-page#customizing-the-error-page">
-        Read more about me here 🍏
+        Read more about me here 🍒
       </a>
     </p>
     <ol>
